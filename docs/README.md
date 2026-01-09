@@ -1,27 +1,17 @@
-# Software Technical Writing Portfolio
+# Documentation Index
+This section contains sample software documentation created to demonstrate task-based technical writing and Markdown authoring.
 
-## Overview
-This repository contains sample software documentation created to demonstrate task-based writing, Markdown authoring, and a docs-as-code workflow.
+## Available Documents
 
-## Contents
-- User Guides
-- API Documentation (in progress)
+### User Guides
+- [Enable Dark Theme in YouTube Application](youtube_dark_theme.md)
+- [Enable Automatic Chat Backup in WhatsApp](whatsapp_chat_backup.md)
 
-## Tools Used
-- Markdown
-- Git
-- GitHub
+## About These Documents
+- Written in Markdown
+- Task-oriented and user-focused
+- Created as part of a Software technical writing portfolio
 
-## Project Structure
-docs/
-- user-guides/
-    - youtube_dark_theme.md
-    - whatsapp_chat_backup.md
-- api/
-     - (planned)
-- images/
-
-## Portfolio
-Github Respository:
-https://github.com/saitejakobaka/software-technical-writing-portfolio
+## Author
+Sai Teja Kobaka
 
